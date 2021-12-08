@@ -5,6 +5,7 @@ installation instuctions
 WIP
 
 Manjaro 
- 
+WIP 
 
 Ubuntu
+WIP
